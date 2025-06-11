@@ -81,7 +81,7 @@
 > 🔗 [View Full Project](https://github.com/SunilKumarPeela/CyberEspionageSOC)
 ---
 
-<h1> Python Nmap Port Scanner</h1>
+<h1> Nmap Port Scanning Automation with Python Scripts</h1>
 
 >*This project provides a simple yet effective command-line tool for network reconnaissance. Using the power of Python and the Nmap network scanner, this script allows users to check for open ports on a specified IP address. The primary function is to perform a SYN scan on port 80, determine the host's status, and report the state of the port. The results, including the scan method and a timestamp, are saved to a text file for logging and analysis. This guide details the necessary prerequisites, setup, and execution steps to use the scanner. This guide will walk you through using a simple Python script to scan for open ports on a target IP address using the `nmap` library. The script will then generate a text file report with the scan results.*
 
