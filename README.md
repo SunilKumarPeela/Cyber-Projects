@@ -4,7 +4,7 @@
 
 >*Conducted a comprehensive internal audit using the NIST Cybersecurity Framework for a toy manufacturing company. The report outlines control gaps, mitigation strategies, and policy enforcement improvements.*
 >  
-> 🔗 [View Report](./Controls%20and%20compliance%20checklist.pdf)
+> 🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/Controls%20and%20compliance%20checklist.pdf)
 
 ---
 
