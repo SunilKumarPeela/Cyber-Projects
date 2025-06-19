@@ -12,7 +12,7 @@
 
 >*Performed detailed file-level access control reviews using Linux bash scripting. This project ensures least privilege access and enforces group-based security, following enterprise compliance standards.*
 >
->🔗 [View Report](./File%20permissions%20in%20Linux.pdf)
+>🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/File%20permissions%20in%20Linux.pdf)
 
 ---
 
@@ -20,7 +20,7 @@
 
 >*Utilized SQL to filter large datasets for threat investigation, simulating a real-world SOC analysis use case. Queries were optimized for speed and accuracy to support timely threat response.*
 >
->🔗 [View Report](./Apply%20filters%20to%20SQL%20queries%20(1).pdf)
+>🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/Apply%20filters%20to%20SQL%20queries%20(1).pdf)
 
 ---
 
@@ -31,7 +31,7 @@
 
 
 >
-> 🔗 [View Report](./Vulnerability%20assessment%20report.pdf)
+> 🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/Vulnerability%20assessment%20report.pdf)
 
 ---
 
@@ -39,7 +39,7 @@
 
 > *Simulated a ransomware incident in a healthcare environment and documented the complete incident response lifecycle from detection to containment and recovery. Report reflects real-world impact and cross-team coordination.*
 >
-> 🔗 [View Report](./Incident%20handler%27s%20journal%20.pdf)
+> 🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/Incident%20handler's%20journal%20.pdf)
 
 ---
 
@@ -47,7 +47,7 @@
 
 >*Developed a Python script to dynamically update data files for automated incident logging. Demonstrates secure file handling, script-based automation, and adaptability in security operations.*
 >
-> 🔗 [View Report](./Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
+> 🔗 [View Report](https://github.com/SunilKumarPeela/CyberSecurityProjects/blob/main/Update%20a%20file%20through%20a%20Python%20algorithm.pdf)
 
 ---
 
